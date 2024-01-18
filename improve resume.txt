@@ -1,0 +1,7 @@
+Engineered end-to-end LWC components, including designing, implementing connectivity with Salesforce database, and optimizing for responsiveness; achieved a 25% increase in user satisfaction and reduced bounce rate by 15%.
+
+Developed Lightning Web Components (LWC) from scratch, encompassing UI/UX design, seamless integration with Salesforce database, and ensuring mobile responsiveness; resulting in a 40% reduction in page load time and improved user engagement.
+
+
+Architected and implemented a robust CI/CD pipeline, automating the build, testing, and deployment processes, resulting in a 50% reduction in release cycle time and improved overall project efficiency.
+Orchestrated the seamless deployment of critical components, ensuring uninterrupted system operations, while integrating APIs to streamline data flow and enhance functionality.
